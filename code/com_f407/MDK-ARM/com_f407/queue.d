@@ -1,0 +1,15 @@
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+com_f407\queue.o: D:\my_software\keil5_stm32\Core\ARM\ARMCC\Bin\..\include\stdlib.h
+com_f407\queue.o: D:\my_software\keil5_stm32\Core\ARM\ARMCC\Bin\..\include\string.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+com_f407\queue.o: D:\my_software\keil5_stm32\Core\ARM\ARMCC\Bin\..\include\stddef.h
+com_f407\queue.o: D:\my_software\keil5_stm32\Core\ARM\ARMCC\Bin\..\include\stdint.h
+com_f407\queue.o: ../Inc/FreeRTOSConfig.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+com_f407\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
